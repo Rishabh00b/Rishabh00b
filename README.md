@@ -1,18 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full Stack & Cloud projects using Java, Python, AWS and Data Science tools<br><br>👯 I’m looking to collaborate on<br>Open Source, Java projects, Cloud Computing and AI/ML projects<br><br>🤝 I’m looking for help with<br>Advanced System Design, DevOps and scalable cloud architectures<br><br>🌱 I’m currently learning<br>AWS, Data Structures & Algorithms, Machine Learning and Backend Development<br><br>💬 Ask me about<br>Java, Python, GitHub, AWS basics, DSA and beginner coding guidance<br><br>⚡ Fun fact<br>I enjoy turning complex tech concepts into simple real-world explanations
+<div align="center">
 
+# Hey, I'm Rishabh 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh0b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rishabh_0b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rishabh_0b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rishabh00b@gmail.com) 
+**AWS Certified Data Engineer** · B.Tech CSE-AI @ KIET Ghaziabad (2024–2028)  
+Building data pipelines, backend systems, and cloud infrastructure — as a 1st year.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rishabh00b&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rishabh00b&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishabh00b&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh0b)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rishabh_0b)
+[![Email](https://img.shields.svg/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rishabh00b@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rishabh00b&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Who I am
+
+I'm a 1st-year CS student who holds the **AWS Certified Data Engineer – Associate (DEA-C01)** —
+a cert most working engineers take 2+ years to attempt.
+
+I don't wait to learn things. I build.
+
+- 🔧 Built REST API backends with **Java + Spring Boot + MySQL** from scratch
+- 📊 Built a full **ETL pipeline → Power BI dashboard** using Python (Pandas) + SQL
+- ☁️ Working with **AWS S3, EC2, IAM, Glue** — understand cloud-native data architecture
+- 🤖 Exploring **ML pipelines** with TensorFlow, PyTorch, and scikit-learn
+
+Currently: getting better at **system design**, **Apache Spark**, and **scalable data pipelines**.
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Level |
+|---|---|---|
+| AWS Certified Data Engineer – Associate (DEA-C01) | Amazon Web Services | ⭐ Associate |
+| AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | Foundational |
+| Machine Learning Foundations | AWS Academy | — |
+| AI for Everyone | DeepLearning.AI | — |
+
+---
+
+## 🔨 What I've Built
+
+### 📌 Sales Data Analysis Dashboard
+`Python` `SQL` `Power BI` `Pandas`  
+Full ETL pipeline — extracted raw sales data, cleaned with Pandas,
+optimized SQL queries, built interactive KPI dashboard in Power BI.
+→ [View Project](#)
+
+### 📌 Teacher Data Management System
+`Java` `Spring Boot` `MySQL`  
+Built REST APIs for structured data storage and retrieval.
+Designed relational schema, wrote optimized SQL queries, implemented
+backend validation logic.
+→ [View Project](#)
+
+### 📌 Book Data Management System
+`Spring Boot` `JPA` `MySQL`  
+Backend CRUD system with data integrity enforced via JPA/Hibernate ORM.
+→ [View Project](#)
+
+---
+
+## 🛠 Core Stack
+
+**Data Engineering**  
+`Python` `SQL` `Apache Spark` `Apache Airflow` `Apache Flink` `Pandas` `NumPy`
+
+**Cloud**  
+`AWS (S3, EC2, IAM, Glue, EMR)` `Firebase` `Render` `Supabase`
+
+**Backend**  
+`Java` `Spring Boot` `Node.js` `Express.js` `REST APIs` `MySQL`
+
+**ML / AI**  
+`TensorFlow` `PyTorch` `scikit-learn` `Keras` `Matplotlib`
+
+**Tools**  
+`Git` `GitHub` `Postman` `Bash` `PowerShell`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.shion.dev/api?username=Rishabh00b&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![Streak](https://streak-stats.demolab.com/?user=Rishabh00b&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishabh00b&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 📬 Open To
+
+- 🎯 **Data Engineering / Data Analyst / Cloud internships** (remote preferred)
+- 🤝 **Open source collaboration** on data pipelines, backend systems, or ML tools
+- 💬 **Conversations** about AWS, data engineering, or anything you're building
+
+**Reach me:** [Rishabh00b@gmail.com](mailto:Rishabh00b@gmail.com)  
+**LinkedIn:** [linkedin.com/in/Rishabh0b](https://linkedin.com/in/Rishabh0b)
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Rishabh00b&color=00f5a0&style=flat)
+
+*"I enjoy turning complex tech concepts into simple real-world solutions."*
+
+</div>
