@@ -2,7 +2,7 @@
 
 # Hey, I'm Rishabh 👋
 
-**AWS Certified Data Engineer** · B.Tech CSE-AI @ KIET Ghaziabad (2024–2028)  
+**B.Tech CSE-AI @ KIET Ghaziabad · 2nd Year (2024–2028)
 Building data pipelines, backend systems, and cloud infrastructure — as a 1st year.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh0b)
@@ -15,7 +15,7 @@ Building data pipelines, backend systems, and cloud infrastructure — as a 1st 
 
 ## 🧠 Who I am
 
-I'm a 1st-year CS student who holds the **AWS Certified Data Engineer – Associate (DEA-C01)** —
+I'm a 2nd-year CS student who holds the AWS Certified Data Engineer – Associate (DEA-C01)** —
 a cert most working engineers take 2+ years to attempt.
 
 I don't wait to learn things. I build.
