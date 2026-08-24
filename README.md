@@ -38,8 +38,7 @@ Currently: getting better at **system design**, **Apache Spark**, and **scalable
 | Machine Learning Foundations | AWS Academy | — |
 | AI for Everyone | DeepLearning.AI | — |
 
----
-## 🏆 Achievement ### 🥇 1st Prize — InnoTech Tech Fest | KIET **Team Leader | ZeroMile | Start Small, Scale Large** Led a team that secured **1st place at the departmental level** at KIET's InnoTech Tech Fest. **ZeroMile** was a logistics concept designed to connect shippers with trucks that have available capacity on their return routes, helping reduce empty truck journeys and provide lower-cost shipping opportunities. ---
+
 
 ## 🔨 What I've Built
 
