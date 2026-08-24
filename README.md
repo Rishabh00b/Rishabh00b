@@ -1,13 +1,17 @@
+```markdown
 <div align="center">
 
 # Hey, I'm Rishabh 👋
 
-**B.Tech CSE-AI @ KIET Ghaziabad · 2nd Year (2024–2028)
-Building data pipelines, backend systems, and cloud infrastructure — as a 1st year.
+### B.Tech CSE-AI @ KIET Ghaziabad · 3rd Year (2024–2028)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh0b)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rishabh_0b)
-[![Email](https://img.shields.svg/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rishabh00b@gmail.com)
+**Aspiring Data Engineer · Building data pipelines, backend systems & cloud solutions**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh0b)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rishabh_0b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rishabh00b@gmail.com)
 
 </div>
 
@@ -15,69 +19,110 @@ Building data pipelines, backend systems, and cloud infrastructure — as a 1st 
 
 ## 🧠 Who I am
 
-I'm a 3nd-year CS student who holds the AWS Certified Data Engineer – Associate (DEA-C01)** —
-a cert most working engineers take 2+ years to attempt.
+I'm a **3rd-year Computer Science & Engineering (AI)** student at **KIET Group of Institutions, Ghaziabad**, focused on **Data Engineering, Cloud Computing, Backend Development, and scalable data systems**.
 
-I don't wait to learn things. I build.
+I learn by building real-world projects and turning technical concepts into practical solutions.
 
-- 🔧 Built REST API backends with **Java + Spring Boot + MySQL** from scratch
-- 📊 Built a full **ETL pipeline → Power BI dashboard** using Python (Pandas) + SQL
-- ☁️ Working with **AWS S3, EC2, IAM, Glue** — understand cloud-native data architecture
-- 🤖 Exploring **ML pipelines** with TensorFlow, PyTorch, and scikit-learn
+- 🔧 Built REST API backends with **Java + Spring Boot + MySQL**
+- 📊 Built an end-to-end **ETL pipeline → Power BI dashboard** using **Python (Pandas) + SQL**
+- ☁️ Working with **AWS S3, EC2, IAM & Glue** for cloud-based data workflows
+- 🧪 Completed a **Software Quality Assurance Internship at FabHotels**, using **Jira** for defect tracking
+- 🏆 **1st Prize at KIET InnoTech Tech Fest — Departmental Level**, as **Team Leader** of ZeroMile
 
-Currently: getting better at **system design**, **Apache Spark**, and **scalable data pipelines**.
+Currently strengthening my skills in **Advanced SQL, PySpark, Apache Spark, Data Warehousing & scalable data pipelines**.
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Level |
-|---|---|---|
-| AWS Certified Data Engineer – Associate (DEA-C01) | Amazon Web Services | ⭐ Associate |
-| AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services | Foundational |
-| Machine Learning Foundations | AWS Academy | — |
-| AI for Everyone | DeepLearning.AI | — |
+| Certification | Issuer |
+|---|---|
+| 🏆 **AWS Certified Data Engineer – Associate (DEA-C01)** | Amazon Web Services |
+| ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** | Amazon Web Services |
+| 🤖 **Machine Learning Foundations** | AWS Academy |
+| 🧠 **AI for Everyone** | DeepLearning.AI |
+| 📊 **Data Analytics Job Simulation** | Deloitte · Forage |
 
 ---
 
 ## 🔨 What I've Built
 
-### 📌 Sales Data Analysis Dashboard
-`Python` `SQL` `Power BI` `Pandas`  
-Full ETL pipeline — extracted raw sales data, cleaned with Pandas,
-optimized SQL queries, built interactive KPI dashboard in Power BI.
-→ [View Project](#)
+### 📊 Sales Data Analysis Dashboard
+`Python` `SQL` `Pandas` `Power BI`
 
-### 📌 Teacher Data Management System
-`Java` `Spring Boot` `MySQL`  
-Built REST APIs for structured data storage and retrieval.
-Designed relational schema, wrote optimized SQL queries, implemented
-backend validation logic.
-→ [View Project](#)
+Built an end-to-end ETL pipeline to extract, clean, transform and analyze sales data.
 
-### 📌 Book Data Management System
-`Spring Boot` `JPA` `MySQL`  
-Backend CRUD system with data integrity enforced via JPA/Hibernate ORM.
-→ [View Project](#)
+- 📥 Data extraction, cleaning & transformation using Python/Pandas
+- 🗄️ SQL-based analysis and query optimization
+- 📈 Interactive Power BI dashboards for KPIs, revenue trends & regional performance
+
+→ **[View Project](#)**
+
+---
+
+### 👨‍🏫 Teacher Data Management System
+`Java` `Spring Boot` `MySQL` `REST APIs`
+
+Backend system for structured teacher data storage and retrieval.
+
+- 🔧 REST APIs using Spring Boot
+- 🗄️ Normalized relational database schema
+- ⚡ Data validation and SQL query optimization
+
+→ **[View Project](#)**
+
+---
+
+### 📚 Book Data Management System
+`Java` `Spring Boot` `JPA` `MySQL`
+
+CRUD-based backend system for managing book records.
+
+- 🔄 CRUD operations using Spring Boot
+- 🗄️ JPA/Hibernate ORM for database operations
+- 🔐 Focused on data consistency and integrity
+
+→ **[View Project](#)**
+
+---
+
+## 🏆 Achievement
+
+### 🥇 InnoTech Tech Fest — KIET
+
+**1st Prize · Departmental Level · Team Leader · ZeroMile**
+
+Led a team under the **“Start Small, Scale Large”** theme to develop **ZeroMile** — a logistics concept connecting shippers with trucks having available capacity on their return routes.
+
+The idea aimed to **reduce empty truck journeys** while providing **lower-cost shipping opportunities** between existing routes.
 
 ---
 
 ## 🛠 Core Stack
 
-**Data Engineering**  
-`Python` `SQL` `Apache Spark` `Apache Airflow` `Apache Flink` `Pandas` `NumPy`
+**Data Engineering**
 
-**Cloud**  
-`AWS (S3, EC2, IAM, Glue, EMR)` `Firebase` `Render` `Supabase`
+`Python` `SQL` `Pandas` `NumPy` `ETL` `Data Modeling`
 
-**Backend**  
-`Java` `Spring Boot` `Node.js` `Express.js` `REST APIs` `MySQL`
+**Cloud**
 
-**ML / AI**  
-`TensorFlow` `PyTorch` `scikit-learn` `Keras` `Matplotlib`
+`AWS S3` `AWS EC2` `AWS IAM` `AWS Glue`
 
-**Tools**  
-`Git` `GitHub` `Postman` `Bash` `PowerShell`
+**Backend**
+
+`Java` `Spring Boot` `JPA` `Hibernate` `REST APIs` `MySQL`
+
+**Data & Visualization**
+
+`Power BI` `Tableau`
+
+**Tools**
+
+`Git` `GitHub` `Jira` `Postman` `Bash` `PowerShell`
+
+**Currently Learning**
+
+`PySpark` `Apache Spark` `Advanced SQL` `Data Warehousing` `System Design`
 
 ---
 
@@ -85,11 +130,13 @@ Backend CRUD system with data integrity enforced via JPA/Hibernate ORM.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.shion.dev/api?username=Rishabh00b&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh00b&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165">
 
-![Streak](https://streak-stats.demolab.com/?user=Rishabh00b&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=Rishabh00b&theme=dark&hide_border=true" height="165">
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishabh00b&theme=dark&hide_border=true&layout=compact)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh00b&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165">
 
 </div>
 
@@ -97,20 +144,36 @@ Backend CRUD system with data integrity enforced via JPA/Hibernate ORM.
 
 ## 📬 Open To
 
-- 🎯 **Data Engineering / Data Analyst / Cloud internships** (remote preferred)
-- 🤝 **Open source collaboration** on data pipelines, backend systems, or ML tools
-- 💬 **Conversations** about AWS, data engineering, or anything you're building
+- 🎯 **Data Engineering Internships**
+- 📊 **Data Analyst Internships**
+- ☁️ **Cloud / Data Engineering Internships**
+- 🤝 **Open-source collaboration** in data engineering, backend systems & ML
 
-**Reach me:** [Rishabh00b@gmail.com](mailto:Rishabh00b@gmail.com)  
-**LinkedIn:** [linkedin.com/in/Rishabh0b](https://linkedin.com/in/Rishabh0b)
+Interested in working with:
+
+**Python · SQL · AWS · ETL · Data Pipelines · Databases · PySpark · Cloud Data Engineering**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rishabh0b)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rishabh_0b)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rishabh00b@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishabh00b&color=00f5a0&style=flat)
 
-*"I enjoy turning complex tech concepts into simple real-world solutions."*
+### *I learn by building. 🚀*
 
 </div>
- update this readme file of my github also
+```
