@@ -36,7 +36,7 @@ Currently strengthening my skills in **Advanced SQL, PySpark, Apache Spark, Data
 ## 🏅 Certifications
 
 | Certification | Issuer |
-|---|---|
+|:---|:---|
 | 🏆 **AWS Certified Data Engineer – Associate (DEA-C01)** | Amazon Web Services |
 | ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** | Amazon Web Services |
 | 🤖 **Machine Learning Foundations** | AWS Academy |
@@ -48,6 +48,7 @@ Currently strengthening my skills in **Advanced SQL, PySpark, Apache Spark, Data
 ## 🔨 What I've Built
 
 ### 📊 Sales Data Analysis Dashboard
+
 `Python` `SQL` `Pandas` `Power BI`
 
 Built an end-to-end ETL pipeline to extract, clean, transform and analyze sales data.
@@ -56,11 +57,10 @@ Built an end-to-end ETL pipeline to extract, clean, transform and analyze sales 
 - 🗄️ SQL-based analysis and query optimization
 - 📈 Interactive Power BI dashboards for KPIs, revenue trends & regional performance
 
-→ **[View Project](#)**
-
 ---
 
 ### 👨‍🏫 Teacher Data Management System
+
 `Java` `Spring Boot` `MySQL` `REST APIs`
 
 Backend system for structured teacher data storage and retrieval.
@@ -69,20 +69,17 @@ Backend system for structured teacher data storage and retrieval.
 - 🗄️ Normalized relational database schema
 - ⚡ Data validation and SQL query optimization
 
-→ **[View Project](#)**
-
 ---
 
 ### 📚 Book Data Management System
-`Java` `Spring Boot` `JPA` `MySQL`
+
+`Java` `Spring Boot` `JPA` `Hibernate` `MySQL`
 
 CRUD-based backend system for managing book records.
 
 - 🔄 CRUD operations using Spring Boot
 - 🗄️ JPA/Hibernate ORM for database operations
 - 🔐 Focused on data consistency and integrity
-
-→ **[View Project](#)**
 
 ---
 
@@ -92,7 +89,7 @@ CRUD-based backend system for managing book records.
 
 **1st Prize · Departmental Level · Team Leader · ZeroMile**
 
-Led a team under the **“Start Small, Scale Large”** theme to develop **ZeroMile** — a logistics concept connecting shippers with trucks having available capacity on their return routes.
+Led a team under the **"Start Small, Scale Large"** theme to develop **ZeroMile** — a logistics concept connecting shippers with trucks having available capacity on their return routes.
 
 The idea aimed to **reduce empty truck journeys** while providing **lower-cost shipping opportunities** between existing routes.
 
@@ -100,28 +97,22 @@ The idea aimed to **reduce empty truck journeys** while providing **lower-cost s
 
 ## 🛠 Core Stack
 
-**Data Engineering**
-
+### 📊 Data Engineering
 `Python` `SQL` `Pandas` `NumPy` `ETL` `Data Modeling`
 
-**Cloud**
-
+### ☁️ Cloud
 `AWS S3` `AWS EC2` `AWS IAM` `AWS Glue`
 
-**Backend**
-
+### ☕ Backend
 `Java` `Spring Boot` `JPA` `Hibernate` `REST APIs` `MySQL`
 
-**Data & Visualization**
-
+### 📈 Data & Visualization
 `Power BI` `Tableau`
 
-**Tools**
-
+### 🔧 Tools
 `Git` `GitHub` `Jira` `Postman` `Bash` `PowerShell`
 
-**Currently Learning**
-
+### 🚀 Currently Learning
 `PySpark` `Apache Spark` `Advanced SQL` `Data Warehousing` `System Design`
 
 ---
@@ -130,15 +121,23 @@ The idea aimed to **reduce empty truck journeys** while providing **lower-cost s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh00b&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh00b&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400">
 
-<img src="https://streak-stats.demolab.com/?user=Rishabh00b&theme=dark&hide_border=true" height="165">
+<br><br>
 
-<br>
+<img src="https://streak-stats.demolab.com/?user=Rishabh00b&theme=dark&hide_border=true" width="400">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh00b&theme=dark&hide_border=true&layout=compact&langs_count=8" height="165">
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh00b&theme=dark&hide_border=true&layout=compact&langs_count=8" width="400">
 
 </div>
+
+---
+
+## 🎯 Currently Focused On
+
+`Advanced SQL` → `PySpark` → `Apache Spark` → `Data Warehousing` → `AWS Data Engineering`
 
 ---
 
@@ -147,7 +146,7 @@ The idea aimed to **reduce empty truck journeys** while providing **lower-cost s
 - 🎯 **Data Engineering Internships**
 - 📊 **Data Analyst Internships**
 - ☁️ **Cloud / Data Engineering Internships**
-- 🤝 **Open-source collaboration** in data engineering, backend systems & ML
+- 🤝 **Open-source collaboration** in data engineering and backend systems
 
 Interested in working with:
 
