@@ -110,7 +110,7 @@ Developed REST APIs for structured teacher data storage and retrieval, with a no
 
 Led a team under "Start Small, Scale Large" to design a logistics concept matching shippers with trucks on return routes — cutting empty trips and shipping costs.
 
-[`→ View Project`](#)
+[`→ View Project`](https://github.com/kastwaru/ZeroMile)
 
 </td>
 </tr>
