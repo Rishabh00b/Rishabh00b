@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:8E44AD&height=220&section=header&text=Hey,%20I'm%20Rishabh%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20in%20the%20making%20|%20Pipelines,%20Warehouses%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%" alt="Rishabh profile banner"/>
 
 <br/>
 
