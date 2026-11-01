@@ -171,8 +171,10 @@ I contribute to [Apache Airflow](https://github.com/apache/airflow), the workflo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishabh00b&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh00b&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://img.shields.io/github/followers/Rishabh00b?style=for-the-badge&logo=github&color=2E86C1&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/Rishabh00b?style=for-the-badge&logo=github&color=8E44AD&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-2%20Merged%20PRs-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AWS-DEA--C01-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh00b&theme=tokyonight&hide_border=true&background=0D1117"/>
 
