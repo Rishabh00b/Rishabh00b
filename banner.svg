@@ -1,32 +1,33 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F2027"/>
-      <stop offset="50%" stop-color="#2C5364"/>
-      <stop offset="100%" stop-color="#0F2027"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#1B1F3B"/>
     </linearGradient>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.05"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8E44AD"/>
+      <stop offset="1" stop-color="#2E86C1"/>
     </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
   </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect x="0" y="292" width="1200" height="8" fill="url(#accent)"/>
 
-  <rect width="1200" height="220" fill="url(#bgGrad)"/>
+  <g font-family="'Fira Code', 'Consolas', monospace">
+    <text x="80" y="120" font-size="52" font-weight="700" fill="#FFFFFF">Rishabh Kumar Singh</text>
+    <text x="80" y="170" font-size="26" fill="url(#accent)">Data Engineer · AWS Certified · Airflow Contributor</text>
+    <text x="80" y="220" font-size="18" fill="#8B949E">Snowflake  ·  dbt  ·  Airflow  ·  AWS  ·  Python  ·  LLM-augmented analytics</text>
+  </g>
 
-  <!-- decorative wave shapes -->
-  <path d="M0,160 C300,220 900,100 1200,170 L1200,220 L0,220 Z" fill="url(#waveGrad)"/>
-  <path d="M0,180 C350,230 850,130 1200,190 L1200,220 L0,220 Z" fill="#38BDF8" fill-opacity="0.08"/>
-
-  <!-- main title -->
-  <text x="600" y="100" font-family="'Segoe UI', 'Fira Code', monospace" font-size="42" font-weight="700" fill="#FFFFFF" text-anchor="middle">
-    Rishabh Kumar Singh
-  </text>
-
-  <!-- tagline -->
-  <text x="600" y="140" font-family="'Segoe UI', 'Fira Code', monospace" font-size="18" font-weight="400" fill="#38BDF8" text-anchor="middle">
-    Aspiring Data Engineer  |  Pipelines, Warehouses &amp; AI
-  </text>
-
-  <!-- small accent line -->
-  <rect x="520" y="155" width="160" height="2" fill="#38BDF8" fill-opacity="0.6"/>
+  <g transform="translate(900,70)" stroke="#2E86C1" stroke-width="2" fill="none" opacity="0.9">
+    <rect x="0" y="0" width="70" height="40" rx="6"/>
+    <rect x="110" y="0" width="70" height="40" rx="6" stroke="#8E44AD"/>
+    <rect x="220" y="0" width="70" height="40" rx="6"/>
+    <rect x="55" y="90" width="70" height="40" rx="6" stroke="#8E44AD"/>
+    <rect x="165" y="90" width="70" height="40" rx="6"/>
+    <path d="M70 20H110M180 20H220M35 40L90 90M145 40L90 90M145 40L200 90M255 40L200 90"/>
+  </g>
 </svg>
