@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="Rishabh Kumar Singh – Data Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+AWS+Certified+(DEA-C01);Apache+Airflow+Contributor+(2+Merged+PRs);Medallion+Pipelines+at+10M%2B+Row+Scale;Snowflake+%C2%B7+dbt+%C2%B7+Airflow+%C2%B7+AWS+%C2%B7+Python;LLM-Augmented+Analytics+on+Real+Warehouses" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+AWS+Certified+(DEA-C01);Apache+Airflow+Contributor;Medallion+Pipelines+at+10M%2B+Row+Scale;Snowflake+%C2%B7+dbt+%C2%B7+Airflow+%C2%B7+AWS+%C2%B7+Python;LLM-Augmented+Analytics+on+Real+Warehouses" alt="Typing SVG"/>
 
 <br/>
 
@@ -23,7 +23,7 @@ role:        Data Engineer (student) — pipelines, warehousing, AI-augmented an
 education:   B.Tech CSE (AI), KIET Group of Institutions · 2024 → 2028
 location:    Delhi, India
 certified:   AWS Certified Data Engineer – Associate (DEA-C01)
-open_source: Apache Airflow contributor — 2 merged PRs
+open_source: Apache Airflow contributor — see live merged-PR count below
 stack:       [Snowflake, dbt, Airflow, AWS, Python, SQL, Docker]
 learning:    [Apache Spark, System Design, Advanced dbt + CI/CD]
 status:      Open to Data Engineering / Analytics / Cloud internships
@@ -31,7 +31,7 @@ status:      Open to Data Engineering / Analytics / Cloud internships
 
 I build batch data platforms the way production teams do: layered models, tested transformations, orchestrated and containerised, with an AI layer on top for people who don't write SQL.
 
-🌐 **Open-source contributor to [Apache Airflow](https://github.com/apache/airflow)** — 2 pull requests merged into the orchestrator behind my own pipelines.
+🌐 **Open-source contributor to [Apache Airflow](https://github.com/apache/airflow)** — pull requests merged into the orchestrator behind my own pipelines.
 
 ---
 
@@ -39,7 +39,7 @@ I build batch data platforms the way production teams do: layered models, tested
 
 | | |
 |:--|:--|
-| 🌐 **Open Source** | **2 merged PRs in [Apache Airflow](https://github.com/apache/airflow)** |
+| 🌐 **Open Source** | [![Merged PRs](https://img.shields.io/github/issues-search?query=repo%3Aapache%2Fairflow%20is%3Apr%20is%3Amerged%20author%3ARishabh00b&label=merged%20PRs&color=2EA043&style=flat-square&cacheSeconds=3600)](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3ARishabh00b+is%3Amerged) in [Apache Airflow](https://github.com/apache/airflow) |
 | ☁️ **Certified** | AWS Certified Data Engineer – Associate (DEA-C01) and Cloud Practitioner (CLF-C02) |
 | 📦 **Scale** | Pipeline handling **10M+ orders · 23M+ order items · 300K+ reviews** |
 | 🤖 **AI on the warehouse** | LLM review enrichment, RAG review chat, and NL→SQL with a SELECT-only guard |
@@ -83,9 +83,9 @@ flowchart LR
 ## 🌐 Open Source — Apache Airflow
 
 [![Airflow](https://img.shields.io/badge/Apache%20Airflow-Contributor-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3ARishabh00b+is%3Amerged)
-![Merged PRs](https://img.shields.io/badge/Merged%20PRs-2-2EA043?style=for-the-badge&logo=github&logoColor=white)
+[![Merged PRs](https://img.shields.io/github/issues-search?query=repo%3Aapache%2Fairflow%20is%3Apr%20is%3Amerged%20author%3ARishabh00b&label=Merged%20PRs&color=2EA043&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600)](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3ARishabh00b+is%3Amerged)
 
-I contribute to [Apache Airflow](https://github.com/apache/airflow), the workflow orchestrator I use daily in my own data pipelines. Two of my pull requests have been reviewed by maintainers and merged upstream.
+I contribute to [Apache Airflow](https://github.com/apache/airflow), the workflow orchestrator I use daily in my own data pipelines. My pull requests are reviewed by maintainers and merged upstream; the badge above counts them live.
 
 [**→ See my merged pull requests**](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3ARishabh00b+is%3Amerged)
 
@@ -173,7 +173,7 @@ I contribute to [Apache Airflow](https://github.com/apache/airflow), the workflo
 
 <img src="https://img.shields.io/github/followers/Rishabh00b?style=for-the-badge&logo=github&color=2E86C1&labelColor=0D1117"/>
 <img src="https://img.shields.io/github/stars/Rishabh00b?style=for-the-badge&logo=github&color=8E44AD&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-2%20Merged%20PRs-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/issues-search?query=repo%3Aapache%2Fairflow%20is%3Apr%20is%3Amerged%20author%3ARishabh00b&label=Airflow%20Merged%20PRs&color=017CEE&style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0D1117&cacheSeconds=3600"/>
 <img src="https://img.shields.io/badge/AWS-DEA--C01-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh00b&theme=tokyonight&hide_border=true&background=0D1117"/>
