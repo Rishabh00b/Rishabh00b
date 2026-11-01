@@ -177,9 +177,6 @@ I contribute to [Apache Airflow](https://github.com/apache/airflow), the workflo
 <img src="https://img.shields.io/badge/AWS-DEA--C01-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh00b&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<img src="https://ghchart.rshah.org/2E86C1/Rishabh00b" alt="Rishabh00b contribution calendar" width="85%"/>
-
 </div>
 
 ---
